@@ -6,7 +6,7 @@ ruby '2.7.1'
 gem 'dotenv-rails', groups: [:development, :test]
 
 gem 'rails', '~> 6.0.3'
-gem 'puma', '~> 4.3.5'
+gem 'puma', '~> 4.3.8'
 gem 'jbuilder', '~> 2.10'
 
 # Reduces boot times through caching; required in config/boot.rb
